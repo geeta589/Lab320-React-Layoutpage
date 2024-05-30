@@ -1,0 +1,20 @@
+div{
+    border:solid ;
+    background-color: aquamarine;
+    font-size: 15px;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+div > h1{
+    color: brown;
+}
+
+div > h2{
+    color: blue;
+}
+div > img{
+    height: 50px;
+    width: 50px;
+}
