@@ -18,3 +18,11 @@ div > img{
     height: 50px;
     width: 50px;
 }
+
+div > input{
+    justify-content: center;
+    max-width:fit-content;
+    border: solid;
+    height: 20px;
+    width: 500px;
+}
